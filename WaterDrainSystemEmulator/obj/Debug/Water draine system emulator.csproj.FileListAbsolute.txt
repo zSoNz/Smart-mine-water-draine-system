@@ -1,0 +1,13 @@
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\ConsoleApp1\obj\Debug\Interop.ExcelPlugInShell.dll
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\ConsoleApp1\obj\Debug\Water draine system emulator.csproj.ResolveComReference.cache
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\obj\Debug\Interop.ExcelPlugInShell.dll
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\obj\Debug\Water draine system emulator.csproj.ResolveComReference.cache
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\obj\Debug\ConsoleApp1.exe
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\obj\Debug\ConsoleApp1.pdb
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\bin\Debug\ConsoleApp1.exe
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\bin\Debug\ConsoleApp1.pdb
+C:\Users\Userman\Desktop\Статьи\Smart-mine-water-draine-system\WaterDrainSystemEmulator\obj\Debug\Water draine system emulator.csprojResolveAssemblyReference.cache
